@@ -1,5 +1,14 @@
 @import url("./container.css");
 @import url("./reset.css");
 @import url("./headers.css");
-@import url("./hero.css");
-@import url("./footer.css");
+/* @import url("./hero.css"); */
+/* @import url("./footer.css"); */
+
+body {
+  background-color: #0a0a0a;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 40px 40px;
+  background-attachment: fixed;
+}
