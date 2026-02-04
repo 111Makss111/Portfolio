@@ -7,16 +7,14 @@
   padding-bottom: 20px;
   padding-top: 24px;
 }
-.header-link-logo {
-}
+
 .header-img {
   border-radius: 50%;
 }
-.header-button {
-}
+
 .header-burger-icon {
   fill: transparent;
   stroke: aliceblue;
-  width: 16px;
-  height: 14px;
+  width: 26px;
+  height: 24px;
 }
