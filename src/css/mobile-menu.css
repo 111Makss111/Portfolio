@@ -6,8 +6,8 @@
   left: 0;
   background-color: #eeda88;
   backdrop-filter: blur(10px);
-  /* pointer-events: none;
-  opacity: 0; */
+  pointer-events: none;
+  opacity: 0;
 }
 .backdrop-close-btn {
   position: absolute;
