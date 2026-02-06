@@ -1,5 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
   <defs>
+    <symbol id="icon-close" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M24 8 8 24M8 8l16 16"/>
+    </symbol>
+    <symbol id="icon-close-black" viewBox="0 0 32 32">
+      <path d="M32 3.223 28.777 0 16 12.777 3.223 0 0 3.223 12.777 16 0 28.777 3.223 32 16 19.223 28.777 32 32 28.777 19.223 16 32 3.223z"/>
+    </symbol>
     <symbol id="icon-fs" viewBox="0 0 32 32">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667" d="M24 2.667h-4a6.67 6.67 0 0 0-6.667 6.667v4h-4v5.333h4v10.667h5.333V18.667h4l1.333-5.333h-5.333v-4c0-.736.597-1.333 1.333-1.333h4V2.668"/>
     </symbol>
