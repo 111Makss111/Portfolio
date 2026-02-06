@@ -6,25 +6,8 @@
   left: 0;
   background-color: #eeda88;
   backdrop-filter: blur(10px);
-  pointer-events: none;
-  opacity: 0;
-}
-.backdrop-close-btn {
-  position: absolute;
-  top: 20px;
-  right: 20px;
-  background: transparent;
-  border: none;
-  cursor: pointer;
-  padding: 8px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: transform 250ms ease;
-}
-
-.backdrop-close-btn:hover {
-  transform: rotate(90deg); /* Хрестик буде крутитися при наведенні */
+  /* pointer-events: none;
+  opacity: 0; */
 }
 .backdrop-icon {
   fill: black;
