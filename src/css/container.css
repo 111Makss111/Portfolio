@@ -11,6 +11,26 @@
     padding-left: 24px;
     padding-right: 24px;
   }
+  .header-button {
+    display: none;
+  }
+  .header-menu {
+    display: flex;
+    gap: 20px;
+  }
+  .hero-images {
+    display: block;
+  }
+  .hero-section {
+    flex-direction: row;
+  }
+  .about-section {
+    justify-content: space-between;
+  }
+  .about-section {
+    margin-right: 90px;
+    flex-direction: row;
+  }
 }
 
 @media (min-width: 1200px) {

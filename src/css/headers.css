@@ -9,7 +9,7 @@
 }
 
 .header-img {
-  border-radius: 50%;
+  border-radius: 20%;
 }
 
 .header-burger-icon {
@@ -17,4 +17,19 @@
   stroke: aliceblue;
   width: 26px;
   height: 24px;
+}
+.header-menu {
+  display: none;
+}
+.header-link {
+  color: rgba(106, 107, 126, 1);
+  font-family: Inter;
+  font-size: 12px;
+  line-height: 15px;
+  text-align: left;
+  transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1) color;
+}
+
+.header-link:hover {
+  color: rgba(136, 175, 195, 1);
 }
