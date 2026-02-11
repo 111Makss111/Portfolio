@@ -68,12 +68,12 @@
 }
 .backdrop-menu,
 .backdrop-soc-menu {
-  transform: translateY(20px); /* Трохи опускаємо вниз */
+  transform: translateY(20px);
   transition: transform 600ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .is-open .backdrop-menu,
 .is-open .backdrop-soc-menu {
-  transform: translateY(0); /* Повертаємо на місце */
+  transform: translateY(0);
 }
 .is-open .backdrop-close-btn {
   transform: rotate(0);
