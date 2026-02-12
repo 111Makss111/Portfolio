@@ -13,5 +13,8 @@
     "vite": "^7.2.4",
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
+  },
+  "dependencies": {
+    "swiper": "^12.1.0"
   }
 }
